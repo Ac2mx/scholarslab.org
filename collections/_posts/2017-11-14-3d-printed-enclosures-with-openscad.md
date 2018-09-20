@@ -22,7 +22,8 @@ In OpenSCAD, you can quickly build duplicates of small parts into more complex d
 **Main Enclosure Body**
 
     
-    <code>
+<code>
+
     /* This module constructs the main body of the enclosure. First, we name the module: */
     
     module enclosure() {
@@ -55,7 +56,8 @@ In OpenSCAD, you can quickly build duplicates of small parts into more complex d
     cube([61.5,41.5,16], center=true);
     }
     }
-    </code>
+
+</code>
 
 
 

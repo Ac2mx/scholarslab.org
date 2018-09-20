@@ -13,15 +13,15 @@ In this post I’ll discuss my initial foray into natural language processing (N
 In a prefatory note to the collection, Baraka offers an “Explanation of the Work” that touches on the three books of poetry contained within. “_Sabotage_,” he writes of the first book, “meant I had come to see the superstructure of filth Americans call their way of life, and wanted to see it fall. To sabotage it,” in a word. The second book, he argues, takes this intensity even further: “But _Target Study_ is trying to really study, like bomber crews do the soon to be destroyed cities. Less passive now, less uselessly ‘literary.’” If these comments are any indication, the poetry of _Black Magic_ has a certain level of emotional and political intensity. These poems articulate rage&mdash;they thunder, fulminate, and protest, venting a vindicated anger at racial injustice in America. Others simmer with a more restrained heat, but still tend to employ an often unsettling rhetorical violence. Consider, for example, the conclusion of a poem from _Sabotage_ titled “A POEM SOME PEOPLE WILL HAVE TO UNDERSTAND”:
 
 
-<blockquote>We have awaited the coming of a natural
-phenomenon. Mystics and romantics, knowledgeable
-workers
-of the land.
-
-But none has come.
-(repeat)
-but none has come.
-
+<blockquote>We have awaited the coming of a natural<br>
+phenomenon. Mystics and romantics, knowledgeable<br>
+workers<br>
+of the land.<br>
+<br>
+But none has come.<br>
+(repeat)<br>
+but none has come.<br>
+<br>
 Will the machinegunners please step forward?</blockquote>
 
 
